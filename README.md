@@ -1,2 +1,2 @@
 # IMFRestDemo
-This is rest API for IMF 
+Created REST API using Spring, JPA/Hibernate with Maven.
